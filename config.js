@@ -1,0 +1,7 @@
+// Replace both values with YOUR Supabase details from Phase 7
+const SUPABASE_URL = "https://zvxfogoeugrqularjvlg.supabase.co";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp2eGZvZ29ldWdycXVsYXJqdmxnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEyODc1ODYsImV4cCI6MjEwNjg2MzU4Nn0.cyISCCdu5NbKViGNAiIazE0RpwnjSnS352_2R7s3C6U";
+
+
+//NEXT_PUBLIC_SUPABASE_URL=https://zvxfogoeugrqularjvlg.supabase.co
+//NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_VuKOmMWfTDy-Y1Q6TqY9_g_Nq0rBX1s
